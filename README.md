@@ -1,2 +1,2 @@
 # lazy-playlist
-Automatized Spotify playlist maker
+Automated Spotify playlist maker
